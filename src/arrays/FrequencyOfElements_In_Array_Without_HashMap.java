@@ -1,6 +1,5 @@
-package Arrays;
+package arrays;
 
-import java.util.Arrays;
 
 public class FrequencyOfElements_In_Array_Without_HashMap {
 	public static void main(String[] args)

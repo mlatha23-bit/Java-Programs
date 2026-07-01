@@ -1,4 +1,4 @@
-package Arrays;
+package arrays;
 
 public class Second_Smallest_Element_In_Array {
 	

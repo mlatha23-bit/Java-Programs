@@ -1,4 +1,4 @@
-package Arrays;
+package arrays;
 
 public class DuplicateElements_NestedLoop {
 	public static void main(String[] args)
