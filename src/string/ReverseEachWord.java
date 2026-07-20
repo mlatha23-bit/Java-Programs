@@ -1,6 +1,5 @@
 package string;
 
-//Without Using reverse()
 public class ReverseEachWord {
 		public static void main(String[] args) {
 		String s="Java Selenium Automation";
